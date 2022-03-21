@@ -14,7 +14,7 @@ SLACK_CONN_ID = 'slack'
 
 SlackAPIPostOperator(
     task_id='failure',
-    token='xapp-1-A035WUU1B1V-3209040803046-133211c741abae906d0e233ecd0806e070fc94c5cc800f51732a5696d9016c05',
+    token='REPLACE WITH TOKEN',
     text='Hello World !',
     channel='Alerts',  # Replace with your Slack username
     username='airflow'
