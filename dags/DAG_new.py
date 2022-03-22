@@ -12,7 +12,7 @@ import numpy as np
 #######################################################################################
 # PARAMETROS
 #######################################################################################
-nameDAG           = 'DAG-poc01-python-funct02'
+nameDAG           = 'DAG-new'
 project           = 'project-test-01-295316'
 owner             = 'WALII'
 email             = ['walterleonardo@gmail.com']
