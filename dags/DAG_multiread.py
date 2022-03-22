@@ -39,7 +39,7 @@ def get_hdfs_config():
 config = get_hdfs_config()
 
 dag = DAG(
-  dag_id='DAG_3to1', 
+  dag_id='DAG_3to1_from_git', 
   description='Simple tutorial DAG',
   default_args=default_args)
 
